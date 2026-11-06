@@ -1,2 +1,2 @@
 # practice-demo
-This is Practice of Git &amp; Github
+This is Practice of Git &amp; Github.
